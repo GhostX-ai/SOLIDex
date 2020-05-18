@@ -20,7 +20,20 @@ namespace SOLIDex
         public void action(string active);
     }
     
-    
+    interface IPerson
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string MiddleName { get; set; }
+        public int Age { get; set; }
+    }
+    class Person : IPerson
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string MiddleName { get; set; }
+        public int Age { get; set; }
+    }
     class Jedi
     {
         public string Action { get; set; }
@@ -29,6 +42,19 @@ namespace SOLIDex
             jedi.action(this.Action);
         }
     }
-    
+    class ConsoleAcion : IJedi
+    {
+        public Person person { get; set; }
+
+        public void action(string action)
+        {
+            Console.WriteLine($"{this.person.FirstName} is {action}ing");
+        }
+
+        public void action(IJedi jedi)
+        {
+            throw new NotImplementedException();
+        }
+    }
     
 }
