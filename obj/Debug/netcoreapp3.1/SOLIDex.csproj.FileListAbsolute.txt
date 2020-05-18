@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.exe
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.deps.json
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.dll
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\bin\Debug\netcoreapp3.1\SOLIDex.pdb
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.dll
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.pdb
+C:\Users\GhostX\Desktop\c#Projects\SOLIDex\obj\Debug\netcoreapp3.1\SOLIDex.genruntimeconfig.cache
